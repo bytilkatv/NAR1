@@ -1,0 +1,14 @@
+C:\Users\lesha\dotnet\NAR1\bin\Debug\net8.0\NAR1.exe
+C:\Users\lesha\dotnet\NAR1\bin\Debug\net8.0\NAR1.deps.json
+C:\Users\lesha\dotnet\NAR1\bin\Debug\net8.0\NAR1.runtimeconfig.json
+C:\Users\lesha\dotnet\NAR1\bin\Debug\net8.0\NAR1.dll
+C:\Users\lesha\dotnet\NAR1\bin\Debug\net8.0\NAR1.pdb
+C:\Users\lesha\dotnet\NAR1\obj\Debug\net8.0\NAR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesha\dotnet\NAR1\obj\Debug\net8.0\NAR1.AssemblyInfoInputs.cache
+C:\Users\lesha\dotnet\NAR1\obj\Debug\net8.0\NAR1.AssemblyInfo.cs
+C:\Users\lesha\dotnet\NAR1\obj\Debug\net8.0\NAR1.csproj.CoreCompileInputs.cache
+C:\Users\lesha\dotnet\NAR1\obj\Debug\net8.0\NAR1.dll
+C:\Users\lesha\dotnet\NAR1\obj\Debug\net8.0\refint\NAR1.dll
+C:\Users\lesha\dotnet\NAR1\obj\Debug\net8.0\NAR1.pdb
+C:\Users\lesha\dotnet\NAR1\obj\Debug\net8.0\NAR1.genruntimeconfig.cache
+C:\Users\lesha\dotnet\NAR1\obj\Debug\net8.0\ref\NAR1.dll
